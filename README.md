@@ -2,4 +2,4 @@
 
 HI!
 
-My name is Hayden, I'm a 20 year old from Iowa, and I love Web Design. I am also a huge Oklahoma City Thunder fan, hence the name Hayden0KC ('0' representing Russell Westbrook's number).
+My name is Hayden, I'm a 21 year old from Iowa, and I love Web Design. I am studying to become a Web Developer (Web Design, programming, etc.), but love to program and write scripts, and would like to implement that interest and skill into my web designs.
